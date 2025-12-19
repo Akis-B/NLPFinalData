@@ -1,0 +1,111 @@
+-2
+EU fines Elon Musk's X $140 million for lack of transparency
+The blue check has sparked a massive fine.
+ By 
+Eric Miller
+ on 
+December 5, 2025
+Share on Facebook
+Share on Twitter
+Share on Flipboard
+An illustration including the X logo on a smart phone screen.
+Credit: Nikolas Kokovlis / NurPhoto via Getty Images
+The European Commission on Friday issued a landmark €120 million fine to Elon Musk-owned X for breaching transparency requirements of the Digital Services Act (DSA).
+
+The fine, the equivalent of about $140 million and the first issued under the European Union's DSA, is linked to the "deceptive design of its ‘blue checkmark', the lack of transparency of its advertising repository, and the failure to provide access to public data for researchers," the EU release states.
+
+
+AD
+SEE ALSO:
+Elon Musk's X rolls out feature that shows users' country of origin – then suddenly removes it
+The "blue checkmark" is front-and-center in the ruling, stating that the once-free, now-paid checkmark deceives users and violates the DSA requirement to prohibit deceptive design practices. The blue checkmark now makes it difficult to verify authentic accounts and makes it easier for users to be scammed, according to the ruling.
+
+You May Also Like
+Best tech toys actually worth the money
+
+AD
+"While the DSA does not mandate user verification, it clearly prohibits online platforms from falsely claiming that users have been verified, when no such verification took place," the ruling states.
+
+Mashable Light Speed
+Want more out-of-this world tech, space and science stories?
+Sign up for Mashable's weekly Light Speed newsletter.
+Enter Email
+Sign Me Up
+1
+By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy.
+The ruling also cites a lack of transparency within X's ad repository, stating that it has limited information about the content of advertisements and who is paying for them, which makes it difficult for researchers and the public to scrutinize.
+
+
+AD
+X also failed to provide researchers access to public data as required by DSA.
+
+The ruling follows a nearly two-year investigation launched in December 2023 to determine whether X violated DSA requirements related to the spread of illegal content and the effectiveness of its efforts to combat misinformation, the release states.
+
+Related Stories
+Threads will let users speak to the algorithm
+The internet is drowning in AI slop. Here's how we got here.
+X's location revealing feature is live. Here's how to make it less precise.
+Grok generates sycophantic praise for Elon Musk after new update
+Vine is back, rebooted as diVine, funded by Twitter's Jack Dorsey
+"Deceiving users with blue checkmarks, obscuring information on ads and shutting out researchers have no place online in the EU," said Henna Virkkunen, executive vice-president for European Commission for Tech Sovereignty, Security and Democracy.
+
+
+AD
+X now has 60 business days to bring forward plans to address its use of blue checkmarks, 90 days to address EU concerns regarding its ad repository and public data access to researchers or face further fines, according to the ruling.
+
+Topics X/Twitter Elon Musk
+
+Mashable Image
+Eric Miller
+Eric Miller is the managing editor of Mashable.
+
+Mashable Potato
+
+AD
+Home > Tech
+Meta's 'Phoenix' mixed reality glasses delayed to 2027
+Internal memo hints at next-gen Quest headset and wearables, too.
+ By 
+Chase DiBenedetto
+ on 
+December 7, 2025
+Share on Facebook
+Share on Twitter
+Share on Flipboard
+A Meta logo sign on a blue wall. 
+Internal memo cites changes to core UX as one reason. Credit: David Paul Morris/Bloomberg via Getty Images
+Meta is delaying the release of its anticipated mixed reality headset, codename "Phoenix," and will focus on next-gen devices and wearables over the next year.
+
+In an internal memo, Reality Labs Vice President Maher Saba stated that the commands originated from CEO Mark Zuckerberg, who instructed Reality Labs teams to focus on "higher quality experiences" and other efforts to make the business more sustainable. Saba clarified to employees that the extended timeline was not due to the device receiving additional features, but rather to encourage teams to refine the details.
+
+
+AD
+SEE ALSO:
+Pixel Watch updates its 'always on' display for media controls and timers
+Other Meta VR leaders, including Reality Labs executives Gabriel Aul and Ryan Cairns, added that the decision would give them more "breathing room" to complete the product, as reported by Business Insider. "There's a lot coming in hot with tight bring-up schedules and big changes to our core UX, and we won't compromise on landing a fully polished and reliable experience," they wrote in another memo.
+
+Mashable Light Speed
+Want more out-of-this world tech, space and science stories?
+Sign up for Mashable's weekly Light Speed newsletter.
+Enter Email
+Sign Me Up
+1
+By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy.
+
+AD
+The glasses reportedly look similar to Apple's Vision Pro glasses, with a goggle-like shape and an external computing puck that makes the unit extremely lightweight. Insiders say it will run on the same Horizon OS as Meta’s Quest headsets.
+
+Related Stories
+Apple's head of UI design leaves for Meta
+Mark Zuckerberg unveils Meta's 'AI glasses,' fails demos
+High-risk, manipulated content can remain on Facebook, Meta Oversight Board rules
+Federal judge rules against FTC in Meta antitrust case
+Apple shelves cheaper Vision Pro to focus on smart glasses, report says
+Meta will instead aim for a 2026 release of a "limited edition" wearable device, called "Malibu 2," as well as a next-generation Meta Quest device. Aul and Cairns said the revamp will include a major capabilities upgrade focused on immersive gaming.
+
+Topics Virtual Reality Meta
+
+Chase sits in front of a green framed window, wearing a cheetah print shirt and looking to her right. On the window's glass pane reads "Ricas's Tostadas" in red lettering.
+Chase DiBenedetto
+Social Good Reporter
+Chase joined Mashable's Social Good team in 2020, covering online stories about digital activism, climate justice, accessibility, and media representation. Her work also captures how these conversations manifest in politics, popular culture, and fandom. Sometimes she's very funny.
