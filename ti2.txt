@@ -1,0 +1,39 @@
+-1
+
+Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers
+The program will also hire experienced technologists directly from the private sector
+By Ece Yildirim
+Published December 15, 2025
+Reading time 3 minutes
+
+President Donald Trump arrives at the White House South Lawn
+© Joshua Sukoff
+ Read Later
+ Comments (35)
+The Trump administration is launching an American “Tech Force,” a cross-government early career program mean to “recruit top technologists to modernize the federal government,” according to a press release by the Office of Personnel Management (OPM).
+
+As part of the initiative, government agencies will be bringing in an initial cohort of 1,000 early career technologists who will be hired into government agencies to work one or two year-long fellowships. OPM is aiming for around 30 to 40 Tech Force fellows at most large agencies.
+
+On top of that, the government will also be hiring a total of 500 project management and data science fellows this coming spring, as well as 200 unpaid student interns studying in technology programs under the “Semester of Service” volunteer program.
+
+“The U.S. Tech Force Fellows will gain unique skills and experience working on important, high-impact projects, giving Fellows the opportunity to implement and deploy technology at scale in ways they could not do in the private sector,” the Office of Personnel Management said in a memo.
+
+Applications are open and being accepted on a rolling basis. For those that succeed in getting it, the approximate salary range given is $150,000 to $200,00. There is a long list of participating federal agencies, with a preliminary list including the Departments of Defense, Treasury, State, Labor, Commerce, Energy, Transportation, Homeland Security, and more.
+
+Per CNN, the fellows will work on projects like building AI-integrated drones and weapons, incorporating AI into intelligence practices, and building the platform that will be used for Trump Accounts.
+
+The initiative is meant to address skill gaps and drive AI adoption in the federal workforce and is part of Trump’s “AI Action Plan,” which the administration announced in July with the purported aim of beating China in the global AI race.
+
+“Tech Force will accelerate the use of AI to make our government more responsive and efficient,” the White House Office of Science and Technology Policy wrote in an X post on Monday.
+
+The early career program also comes at a time when young graduates are facing one of the toughest job markets in years, and AI is widely considered to be a factor in that equation.
+
+As with many other Trump-era AI programs, the private sector is deeply embedded in this as well. The program is seeking to hire experienced technologists directly from the private sector to lead the early career fellows, and many tech companies are joining to support the initiative with technical training. The initial lineup includes, Nvidia, OpenAI, Adobe, Amazon Web Services, Apple, Coinbase, Google Public Sector, Robinhood, IBM, Meta, Microsoft, Oracle, Palantir, Uber, xAI and more, with the list set to expand.
+
+“Sharing elite tech talent is yet another way that Amazon is helping to advance American AI leadership,” AWS vice president of worldwide public sector Dave Levy said in the announcement.
+
+The talent sharing between the private and public sectors in order to scale AI is an unusual move but not for Trump 2.0. Many high ranking officials in Trump’s administration came directly from the private sector, including his “AI & Crypto Czar” David Sacks, a venture capitalist who has been in hot water the past month for what many deem to be conflicts of interest stemming from his numerous tech investments. Sacks will be one of the government officials leading the Tech Force program.
+
+The President has also enlisted Elon Musk to lead the now-defunct “agency” Department of Government Efficiency. Then in June, four Silicon Valley executives —Palantir CTO Shyam Sankar, Meta CTO Andrew Bosworth, OpenAI chief product officer Kevin Weil, and Thinking Machines Lab advisor Bob McGrew— joined the Army Reserve as direct-commissioned officers.
+
+Explore
